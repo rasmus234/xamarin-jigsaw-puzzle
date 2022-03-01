@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:jigsaw"
+             x:Class="jigsaw.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Grid x:Name="ImageGrid" ColumnSpacing="1" RowSpacing="1">
+
+            <Grid.Resources>
+                <Style TargetType="Frame">
+                    <Setter Property="HeightRequest" Value="{Binding Source={RelativeSource Self}, Path=Width}" />
+                    <Setter Property="Padding" Value="1"></Setter>
+                </Style>
+
+                <Style TargetType="Image">
+                    <Setter Property="Aspect" Value="AspectFill" />
+                    <Setter Property="HeightRequest" Value="0"></Setter>
+                </Style>
+            </Grid.Resources>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Frame Grid.Row="0" Grid.Column="0">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="0" Grid.Column="1">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="0" Grid.Column="2">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="1" Grid.Column="0">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="1" Grid.Column="1">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="1" Grid.Column="2">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="2" Grid.Column="0">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="2" Grid.Column="1">
+                <Image />
+            </Frame>
+            <Frame Grid.Row="2" Grid.Column="2">
+                <Image />
+            </Frame>
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

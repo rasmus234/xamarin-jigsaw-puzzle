@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mKpzbE/9pIB1j4r7zsUBubH1ks56pYtJVeTBy30mVYepE8wSFD7LRDiRLoLiqSmQIKgdKEfa9uP7/p+RIlZk3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasmu\\RiderProjects\\jigsaw\\jigsaw\\jigsaw.iOS\\jigsaw.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

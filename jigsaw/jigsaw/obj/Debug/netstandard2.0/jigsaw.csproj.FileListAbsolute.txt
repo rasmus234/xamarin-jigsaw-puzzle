@@ -1,0 +1,13 @@
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\bin\Debug\netstandard2.0\jigsaw.deps.json
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\bin\Debug\netstandard2.0\jigsaw.dll
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\bin\Debug\netstandard2.0\jigsaw.pdb
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.csproj.AssemblyReference.cache
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.AssemblyInfoInputs.cache
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.AssemblyInfo.cs
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.dll
+C:\Users\rasmu\RiderProjects\jigsaw\jigsaw\jigsaw\obj\Debug\netstandard2.0\jigsaw.pdb
