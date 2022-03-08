@@ -90,7 +90,7 @@ public partial class MainPage : ContentPage
     private void CheckWin()
     {
 
-        //check current order of frames against original order
+        //check current order of images against original order by comparing the references against each other
         var images = _frames.Select(frame => frame.Content).OfType<Image>().ToList();
         var correctOrder = images.SequenceEqual(_images);
         //check if any frames are rotated
